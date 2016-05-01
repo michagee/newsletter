@@ -1,0 +1,20 @@
+{
+  "name": "newsletter",
+  "homepage": "https://github.com/michagee/newsletter",
+  "authors": [
+    "Michael Gack <michael.gack@gmail.com>"
+  ],
+  "description": "newsletter tool",
+  "main": "bower.json",
+  "keywords": [
+    "bla"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
